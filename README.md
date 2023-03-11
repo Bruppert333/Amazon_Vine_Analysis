@@ -18,3 +18,4 @@ The purpose of this analysis was to first create your RDS, then get that databas
 ![Deliverable_3.1](Deliverables/Deliverable_3.1.png)
 
 ## Summary
+Off the bat I would say there is not any positivity bias for reviews in the vine program because accorrding to my data there were no reviews for paid vine reviews. I think another analysis that we could do is to run an analysis for verified purchase. See if there is a relationship between verified purchase reviewers and non verified purchase reviewers. 
